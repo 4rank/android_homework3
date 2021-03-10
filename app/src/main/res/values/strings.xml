@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fedorinchik_hw3</string>
+    <string name="hello_blank_fragment">Викторина на 10 вопросов</string>
+    <string name="but_begin">Начать</string>
+    <string name="but_yes">ДА</string>
+    <string name="but_no">НЕТ</string>
+    <string name="text_question">Вопрос</string>
+    <string name="text_end">Викторина окончена, ваш результат:</string>
+</resources>
